@@ -1,0 +1,5 @@
+---
+repository:
+  description: Jenkins Container Image that can run container nodes.
+  homepage: https://mesd.ag/
+  topics: jenkins, container, podman, docker
